@@ -1,0 +1,25 @@
+=================== Release 00081 ================================
+This Release Notes file covers these blobs:
+ * libqtisec.a
+
+Version : 00081
+
+Release Date : Jun 15, 2026
+
+Supported Silicon : QCS9075
+
+Changes since last version :
+ * n/a
+
+No special instructions, requirements or dependencies
+
+Errata : Nothing to report
+=================== Release 00081 ================================
+Version : 00081
+Release Date : Jun 15, 2026
+Supported Silicon : QCS9075
+Library will be used for TF-A compilation for QCS9075.
+binary is passed as QTISECLIB_PATH=<path with filename of qtisec lib> in TF-A compilation
+Changes since last version :
+* n/a
+Errata : Nothing to report
