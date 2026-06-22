@@ -1,15 +1,15 @@
-=================== Release 00081 ================================
+=================== Release 00083 ================================
 This Release Notes file covers these blobs:
  * libqtisec.a
 
-Version : 00081
+Version : 00083
 
-Release Date : Jun 15, 2026
+Release Date : Jun 22, 2026
 
 Supported Silicon : QCS9075
 
 Changes since last version :
- * n/a
+ * PMIC and debug module support
 
 No special instructions, requirements or dependencies
 
