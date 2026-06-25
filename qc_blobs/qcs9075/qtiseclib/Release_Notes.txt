@@ -1,18 +1,25 @@
-=================== Release 00083 ================================
+=================== Release 00084 ================================
 This Release Notes file covers these blobs:
  * libqtisec.a
 
-Version : 00083
+Version : 00084
 
-Release Date : Jun 22, 2026
+Release Date : Jun 25, 2026
 
 Supported Silicon : QCS9075
 
 Changes since last version :
- * PMIC and debug module support
+ * Enable and set gold cluster (APC1) voltage to nominal
 
 No special instructions, requirements or dependencies
 
+Errata : Nothing to report
+=================== Release 00083 ================================
+Version : 00083
+Release Date : Jun 22, 2026
+Supported Silicon : QCS9075
+Changes since last version :
+ * PMIC and debug module support
 Errata : Nothing to report
 =================== Release 00081 ================================
 Version : 00081
