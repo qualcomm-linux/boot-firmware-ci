@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # ==============================================================================
 #
 # Copyright (c) Qualcomm Technologies, Inc. and/or its subsidiaries.
