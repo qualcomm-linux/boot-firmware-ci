@@ -969,6 +969,10 @@ def get_swiv_segment_address(target):
                     PIMEM_BASE_ADDR +
                     PIMEM_DEVCFG_SIZE +
                     XBL_SEC_PIMEM_SIZE)
+        case "monaco":
+            # Must match the SWIV segment in QCS8300 tz.mbn
+            # (QCS8300_bootbinaries.1.0 00143: LOAD 0x1c041000, size 0x1000)
+            return 0x1C041000
         case _:
             print("Unknown target. Aborting!")
             sys.exit(2)
